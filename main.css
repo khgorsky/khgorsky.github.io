@@ -3,11 +3,11 @@ body {
 }
 
 nav {
-  border-top: 0px solid black;
-  border-bottom: 0px solid black;
-  padding: 5px;
-  text-align: center;
-  background: whitesmoke;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  margin-bottom: 15px;
+  width:80%;
 }
 
 .sitetitle {
@@ -37,7 +37,7 @@ article {
 }
 
 header {
-    font-family: Alternate Gothic, Oswald, sans-serif;
+    font-family: AlternateGothic, Oswald, sans-serif;
     font-size: 20px;
     font-style: bold;
   }
@@ -68,7 +68,7 @@ h1 {
 }
 
 article > p {
-  font-family: Pensum, "Times New Roman", serif;
+  font-family: Pensum, Times New Roman, serif;
   font-size: 20px;
 }
 
@@ -104,5 +104,3 @@ a:hover {
   color: #FFFFFF;
   text-decoration-color: #FFFFFF;
 }
-
-
