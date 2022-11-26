@@ -31,10 +31,10 @@ nav {
 }
 
 article {
-  margin-left: 5%;
-  margin-right:5%;
+  margin-right:15%;
   width: 100%;
   font-family: Pensum, Times New Roman, serif;
+  text-align: left;
 }
 
 header {
