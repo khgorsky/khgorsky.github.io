@@ -1,9 +1,10 @@
 body {
   margin: 0px;
+  background-color: coral;
 }
 
 nav {
-  background-color: black;
+  background-color: Black;
   color: white;
   font-size: 18px;
   margin-bottom: 15px;
